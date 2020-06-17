@@ -1,0 +1,125 @@
+#+TITLE: UVG GLOG Races
+#+DATE: 2020-06-15
+#+DRAFT: true
+
+** 1. Human
+| UVG pg. | Reroll | Bonus            | Weakness                          |
+|---------+--------+------------------+-----------------------------------|
+|     165 | CHA    | +2 Starting Grit. | -1 to rolls on UVG Mutation Table. |
+
+Covers all approximately-baseline human variants. Minor cosmetic mutations (horns, spots, colouration, etc.) probable.
+
+** 2. Mutant Human
+| UVG pg. | Reroll | Bonus                                                     | Weakness                                              |
+|---------+--------+-----------------------------------------------------------+-------------------------------------------------------|
+|     165 | choose | Player rolls twice on big mutation table, picks 1 result. | GM rolls twice on big mutation table, picks 1 result. |
+
+Humans that can’t quite be called baseline, either by bloodline, accident, or choice.
+
+** 3. Half-Ling
+| UVG pg. | Reroll | Bonus                        | Weakness                                                 |
+|---------+--------+------------------------------+----------------------------------------------------------|
+|     165 | INT    | +1 to rolls for Misfortunes. | Small. -2 to movement related rolls and inventory slots. |
+
+Small, furred in odd places, exuberant, and ravenous, Half-Lings rule the Orange Lands.
+
+** 4. Half-Orc
+| UVG pg. | Reroll | Bonus                                | Weakness                                 |
+|---------+--------+--------------------------------------+------------------------------------------|
+|     189 | STR    | Immune to mundane poisons & diseases. | If afraid, Save or attack source of fear. |
+
+Created for long-forgotten wars, Orcs were supposedly eradicated. Their green, tusked, and sturdy descendants live on.
+
+** 5. Half-Elf
+| UVG pg. | Reroll | Bonus                                             | Weakness                                  |
+|---------+--------+---------------------------------------------------+-------------------------------------------|
+|     188 | DEX    | Do not need to eat to heal at lunch. 5x lifespan. | Easily tempted. Save to resist decadence. |
+
+Elf-touched humans infected with a progressive neuro-moral degenerative disorder.
+
+** 6. Dwarf
+| UVG pg. | Reroll | Bonus                                                                                 | Weakness                                                                      |
+|---------+--------+---------------------------------------------------------------------------------------+-------------------------------------------------------------------------------|
+|     187 | CON    | Can drink hydrocarbons or lightly contaminated liquids in place of water and rations. | If you make an agreement with someone, it costs 1 permanent Grit to break it. |
+
+Staunchly collectivist, bureaucratic, and industrious. Backronym from "De Werker Aristocratiscee Revolutie Fraternitie".
+
+** 7. Quarter-Ling
+| UVG pg. | Reroll | Bonus /  Weakness                                                       |
+|---------+--------+-------------------------------------------------------------------------|
+|     109 | choose | Roll 3d8 on UVG pg. 109 (last 3 tables) and once on big mutation table. |
+
+Obscure degenerate branches of the Lings, or true inheritors of their ancient power? Who can say.
+
+** 8. Cat Lord
+| UVG pg. | Reroll | Bonus                                                                                                                                                                             | Weakness                                                                                                                                                       |
+|---------+--------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     164 | WIS    | Gain a cat pet (hireling). They serve you for free. You can communicate telepathically with and speak through your pet. If they die, you can bind a new one in a village or city. | You are a cat, therefore an asshole. Max Meat is 10. You can only meow without a cat pet. You have 3 inventory slots and cannot wield medium or heavy weapons. |
+
+Priests of the Purple God or Goddess, lazy manipulators, and the true rulers of the Purple Land... or so they say.
+
+** 9-10. Steppelander
+| UVG pg. | Reroll | Bonus                                                                            | Weakness |
+|---------+--------+----------------------------------------------------------------------------------+----------|
+|     166 | STR    | Gain a random ranged weapon (1d4, UVG pg. 174) and +2 to movement related rolls. | -4 to Save against disease. -1 to rolls on Mutation Table |
+
+Reputation as thieves, raiders, and degenerates. In fact, just as human as anyone else.
+
+** 11-12. Mutant Steppelander
+| UVG pg. | Reroll | Bonus                                                                     | Weakness                                                  |
+|---------+--------+---------------------------------------------------------------------------+-----------------------------------------------------------|
+|     166 | choose | Gain a random ranged weapon (as above). Roll twice on big mutation table. | -4 to Save against disease. -1 to rolls on Mutation Table |
+
+The steppes are a strange and dangerous place. Only the strong survive.
+
+** 13. Great Folk
+| UVG pg. | Reroll | Bonus                                     | Weakness                         |
+|---------+--------+-------------------------------------------+----------------------------------|
+|      55 | CON    | Gain the "Herder" and "First Aid" skills. | -2 to all rolls in bright light. |
+
+A human collective that developed from a behemoth maintenance caste. Tall, six-eyed, frequently wizards.
+
+** 14. Cold Lake Villagers
+| UVG pg. | Reroll | Bonus                                                                                                         | Weakness                                                                                               |
+|---------+--------+---------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------|
+|      75 | DEX    | Can slowly alter physical appearance. 1d6 weeks to remove a Mutation or reshape entire body, change sex, etc. | Roll twice on big mutation table and choose 1 result, cannot be removed. +2 to rolls on Mutation Table |
+
+Resilient, isolated, and marginalized, the Cold Lake Villagers are rarely see in the wider world.
+
+** 15. Marmotfolk
+| UVG pg. | Reroll | Bonus                                                                             | Weakness                                                           |
+|---------+--------+-----------------------------------------------------------------------------------+--------------------------------------------------------------------|
+|      96 | STR    | Immune to cold weather. Can cast /control stone and bone/ with 1 MD once per day. | Homesick. -1 to rolls for Misfortunes if out of sight of the Ribs. |
+
+Sharp-toothed, thickly furred, and clandestine, the Marmotfolk dwell in the Ribs of the Father.
+
+** 16. Spectrum Satrap
+| UVG pg. | Reroll | Bonus                                                                                                                                                                                                        | Weakness                                                                                                                          |
+|---------+--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------|
+|     166 | INT    | Communicate via telepathy (100' range). Immune to most poisons and diseases. Do not need to breathe. If killed, can resurrect at Spectrum Palace if stored pattern exists. Cannot be mutated or transformed. | Cannot wear armor. -2 to stealth related rolls. In crowds (>10 living people), reroll Initiative rolls and take the worst result. |
+
+The unique rubber-suited many-limbed Satraps pursue their inscrutiable agendas in the Grasslands.
+
+** 17. Ultra
+| UVG pg. | Reroll | Bonus                                                                                                                                                                                                                                                              | Weakness                                                                                                                       |
+|---------+--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------|
+|     167 | CHA    | Bodiless spirit. Can possess a weak-minded body. Only generate mental stats. Use your hosts physical stats. Process takes 1d6 hours, requires unconscious target. While out of body, move at walking pace, but cannot interact with the world in a meaningful way. | Almost universally feared. When in brand-new body, -4 to all rolls for 1 week. While out of a body, take 2x damage from magic. |
+
+Ultras are bodiless ghosts. Some crave power. Some are insane. Some are helpful.
+
+** 18. Machine Human
+| UVG pg. | Reroll | Bonus                                                                                                    | Weakness                                                        |
+|---------+--------+----------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------|
+|     189 | WIS    | Immune to most poisons and diseases. Do not need to breathe. Cannot be mutated or transformed. +2 Armor. | Do not heal normally, heal 2 Grit per day instead. Cannot swim. |
+
+A human personality and soul in an artificial golem body. Rare, expensive, and coveted.
+
+** 19. Porcelain Prince
+*UVG pg. 165*
+
+Roll 1d4 for race, then see the Polybody class.
+
+** 20. Vome
+*UVG pg. 167*
+
+Cannot be chosen at character creation. See the Vome class. Roll again.
