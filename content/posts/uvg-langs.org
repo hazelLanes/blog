@@ -1,0 +1,10 @@
+#+TITLE: UVG Languages Guidelines
+#+DATE: 2020-07-20
+#+DRAFT: true
+
+* Steppe Speeches (steppe, rainbow)
+Major inspiration taken from the "Black Speech" of K6BD.
+
+** Word order
+Vastly freeform, though commonly of the form verb object subject.
+**
